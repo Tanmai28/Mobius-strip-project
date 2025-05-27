@@ -24,4 +24,4 @@ This gives a solid estimate, close to the expected `2πRw` (around 18.8496 for `
 - **Nailing the Math**: The partial derivatives were a bit of a headache because of all the sines and cosines. A small mistake could throw off the area or edge calculations, so I double-checked everything.
 - **Making the Plot Pop**: The Möbius strip’s twisty, non-orientable nature is cool but tough to visualize clearly. I played with Matplotlib’s settings—like transparency (`alpha=0.8`) and the `viridis` colormap—to make the 3D plot look sharp and show off the strip’s unique shape.
 
-This setup makes the code clean, functional, and ready to explore the Möbius strip’s wild geometry!
+This setup makes the code clean, functional, and ready to explore the Mobius strip’s wild geometry!
