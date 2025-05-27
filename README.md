@@ -25,3 +25,6 @@ This gives a solid estimate, close to the expected `2πRw` (around 18.8496 for `
 - **Making the Plot Pop**: The Möbius strip’s twisty, non-orientable nature is cool but tough to visualize clearly. I played with Matplotlib’s settings—like transparency (`alpha=0.8`) and the `viridis` colormap—to make the 3D plot look sharp and show off the strip’s unique shape.
 
 This setup makes the code clean, functional, and ready to explore the Mobius strip’s wild geometry!
+
+**Output:**
+![Screenshot 2025-05-27 102531](https://github.com/user-attachments/assets/3361433f-78bf-4ac7-bec4-eff097c69345)
